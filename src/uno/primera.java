@@ -6,5 +6,7 @@ public class primera {
 	int dos;
 
 	int tres;
+	
+	int cuatro;
 
 }
